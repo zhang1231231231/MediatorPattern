@@ -1,6 +1,0 @@
-c:\users\zhang\documents\visual studio 2015\Projects\MediatorPattern\MediatorPattern\bin\x86\Debug\MediatorPattern.exe.config
-c:\users\zhang\documents\visual studio 2015\Projects\MediatorPattern\MediatorPattern\bin\x86\Debug\MediatorPattern.exe
-c:\users\zhang\documents\visual studio 2015\Projects\MediatorPattern\MediatorPattern\bin\x86\Debug\MediatorPattern.pdb
-c:\users\zhang\documents\visual studio 2015\Projects\MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.exe
-c:\users\zhang\documents\visual studio 2015\Projects\MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.pdb
-c:\users\zhang\documents\visual studio 2015\Projects\MediatorPattern\MediatorPattern\obj\x86\Debug\MediatorPattern.csprojResolveAssemblyReference.cache
